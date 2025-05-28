@@ -1,6 +1,8 @@
-# 📌 Nome do Projeto
+# 📌 Velocimetro CEF SAMP
 
-Uma descrição curta e clara sobre o que seu projeto faz.
+descrição:
+um sistema de velocimetro em cef feito por forwalkin
+caso queira entrar contato com eu aqui esta meu discord: forwalkin.
 
 ---
 
