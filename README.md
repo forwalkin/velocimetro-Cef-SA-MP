@@ -2,7 +2,7 @@
 
 descrição:
 um sistema de velocimetro em cef feito por forwalkin
-caso queira entrar contato com eu aqui esta meu discord: forwalkin.
+caso queira entrar contato ou comprar com eu aqui esta meu discord: forwalkin.
 
 ---
 
