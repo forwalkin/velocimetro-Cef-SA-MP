@@ -6,11 +6,6 @@ caso queira entrar contato ou comprar com eu aqui esta meu discord: forwalkin.
 
 ---
 
-## 🚀 Demonstração
-
-![Preview](image.png)
-
----
 ## 🛠️ Tecnologias Usadas
 
 - [CEF SA-MP](https://github.com/Pycckue-Bnepeg/samp-cef)
